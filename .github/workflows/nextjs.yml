@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build with Next.js
-        # You need to configure a secret GITLAB_API_TOKEN in your GitHub repository
-        env:
-          GITLAB_API_TOKEN: ${{ secrets.GITLAB_API_TOKEN }}
         run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
