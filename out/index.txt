@@ -1,0 +1,450 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+0:["TUo-D-pYqyOlSne-i_z5o",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/issueboard/_next/static/css/299aab4013f9166a.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"fontFamily":"system-ui, -apple-system, sans-serif"},"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L5",null]]]]
+5:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"GitLab Issues Dashboard"}],["$","meta","3",{"name":"description","content":"Dashboard for tracking GitLab issues"}],["$","link","4",{"rel":"icon","href":"/issueboard/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
+6:I[5634,["931","static/chunks/app/page-b97d9271524c6494.js"],"default"]
+7:T1046,# 요청사항
+https://www.skylife.co.kr/event/giftfest.do
+
+사은품 라인업 전면 업데이트
+
+### 작업 범위
+- 섬네일 이미지 변경
+  - 공통 리스트: [스가페_썸네일_260601](/uploads/4af20d7e16981a4adfa287191355addd/스가페_썸네일_260601.jpg)
+  - 모바일 전용: [스가페_썸네일_MO_260601](/uploads/93e345717d346a438a5edeb881daf22d/스가페_썸네일_MO_260601.png)
+- 타이틀: 변동없음
+- 본문 내용: 아래 표 및 피그마 참고
+- 안내 및 유의사항: 수정 1건, 추가 1건
+
+| 기존 | 변경여부 | 비고 |
+| - | - | - |
+| 1번 영역 | 변경됨 | 각 사은품 자세히 보기도 전면 변경 필요 |
+| 상담신청 버튼 | | |
+| 2번 영역 | 변경됨 | 각 사은품 자세히 보기도 전면 변경 필요  | 
+| 상담신청 버튼 | | |
+| 3번영역 | 변경됨 | 각 사은품 자세히 보기도 전면 변경 필요  |
+| 상담신청 버튼 | | |
+| 4번 영역 | 변경됨 | 각 사은품 자세히 보기도 전면 변경 필요  |
+| 상담신청 버튼 | | |
+| 5번 영역 | | |
+| 유의사항 영역 | | |
+
+### 하드코딩 기획전 본문 디자인
+https://www.figma.com/design/FBp48xoG7nGRLt7cIhEi4b/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%B5-%EA%B8%B0%ED%9A%8D%EC%A0%84?node-id=2052-10180&t=5O2eRQ5IbetNFrCh-4
+
+## 사은품 자세히보기 상세페이지 자료
+### 1G 인터넷+IPTV 요금제 전용
+- 삼성전자 32인치 스마트모니터 무빙스타일 [LS32DM503E-1WE] : [1G_선택1](/uploads/757a0b74c96183b94827dce2525a8b61/1G_선택1.jpg)
+- 인켈 55인치 UHD TV [SU55CKD] : [1G_선택2](/uploads/095e2336c9a827d1b815c4de532e7f20/1G_선택2.jpg)
+- 삼성전자 블루스카이 5500 (18평형) 빅토리 그레이 [AP70F06103RVD] : [1G_선택3](/uploads/9087c822925a826870a2d9b250c3a845/1G_선택3.jpg)
+- 삼성전자 그랑데 통버블 세탁기(10kg) 화이트 [WA10CG5441BW] : [1G_선택4](/uploads/6f47d2c6ce2eba4fb4a1ae60e8c84342/1G_선택4.jpeg)
+- 삼상전자 BESPOKE 큐커 멀티 22L 글램 화이트 [MO22A7797CW2] : [1G_선택5](/uploads/42fe16988f09332e42924b7e6a0547a3/1G_선택5.jpg)
+- LG전자 소형 냉장고 189L [B182W13] : [1G_선택6](/uploads/989dd2e27162330a7e94aaabc647bdb9/1G_선택6.jpg)
+
+### 500M 인터넷+IPTV 요금제 전용
+- 삼성전자 43인치 FHD 스마트 TV [KU43F6050FFXKR] : [500M_선택1](/uploads/a825d81bcd63e9bdffd6a708435d25da/500M_선택1.jpg)
+- 인켈 50인치 UHD TV [SU50CKD] : [500M_선택2](/uploads/f5d2db3bbf257974eb3be6d9fde69139/500M_선택2.jpg)
+- 삼성전자 150W 무선청소기 화이트 제트 스틱 [VS15A6031N5] : [500M_선택3](/uploads/f21340e67c0a8d49d793b287b1552cab/500M_선택3.jpg)
+- LG전자 퓨리케어 360º Hit(15평형) [AS156HWWC] : [500M_선택4](/uploads/c636b4d35ad151e517cb897b16b9be8e/500M_선택4.jpg)
+- 애플 에어팟 프로 3 [A3063] : [500M_선택3](/uploads/36dfb4a85aa2a721d6e28de66a013f43/500M_선택3.jpg)
+
+### 200M 인터넷+IPTV 요금제 전용
+- 삼성전자 32인치 HD TV [KU32H5050FFXKR] : [200M_선택1](/uploads/0b0236670c442ee512725a4cec78cc54/200M_선택1.png)
+- 인켈 43인치 FHD TV [SD43HK] : [200M_선택2](/uploads/77f53857fc0b148dffee223d01e7fb5e/200M_선택2.jpg)
+
+### 100M 인터넷+IPTV 요금제 전용
+- LG전자 쿠첸 IH 전기 압력 밥솥 6인용 [OWZD0640W] : [100M_선택1](/uploads/d0f981c2b7f20379afa9a2e4ba4a1909/100M_선택1.jpg)
+- 삼성전자 10평 공기청정기 빅토리 그레이 블루스카이 [AP70F03102RVD] : [100M_선택2](/uploads/3177cbdc7388726c148151315617cfdc/100M_선택2.jpg)
+
+## 안내 및 유의사항 수정사항
+### 상단 단락의 3번째 줄 수정
+- 기존: ~~가입 상품을 약정 기간 내 해지 시 **위약금**이 발생합니다.~~
+- 변경: 가입 상품을 약정 기간 내 해지 시 할인반환금이 발생합니다.
+
+![image](/uploads/dfa409f0aa2513015da2fa5ea015984b/image.png)
+
+### 사은품 안내 단락의 2번째와 3번째 줄 사이에 문장 추가
+- 사은품 수령 후 1년 이내 해지 시 사은품 비용이 할인반환금에 반영됩니다.
+
+![image](/uploads/8bfe12217d64f2ce862a0d7f1d3d6a05/image.png)
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh8:Tf09,# 요청사항
+- 일반 상담 https://newcms.skylife.co.kr/consult/general 
+- 이전 상담 https://newcms.skylife.co.kr/consult/migration 
+- 해지 상담 https://newcms.skylife.co.kr/consult/cancellation 
+- 가입 상담(Biz) #3309 
+- 가입 상담(부가서비스) #3316 
+
+## 1. 목적
+상담 관리 화면 내 조회된 데이터를 운영자가 엑셀 파일(.xlsx) 형태로 다운로드할 수 있도록 기능 제공
+
+### 운영 목적
+- 상담 현황 모니터링
+- VOC 분석 및 통계 활용
+- 고객센터 업무 이관 및 공유
+- 기간별 상담 데이터 백업
+
+## 2. 적용 범위
+| 메뉴 | 적용 여부 |
+|-|-|
+| 고객 사담 > 가입 상담 | 기 적용 완료 상태 |
+| 고객 상담 > 일반 상담 | 적용 필요 |
+| 고객 상담 > 이전 상담 | 적용 필요 |
+| 고객 상담 > 해지 상담 | 적용 필요 |
+| 고객 상담 > 가입 상담(Biz) | 적용 필요 |
+| 고객 상담 > 가입 상담(부가서비스) | 적용 필요 |
+
+### 3. 기능 개요
+- 각 상담 목록 화면 우측 상단에 [엑셀 다운로드] 버튼 추가
+- 운영자가 현재 조회 조건(센터, 상담 상태, 기간 등)을 기준으로 목록 데이터를 다운로드 가능하도록 제공
+
+## 4. UI 정책
+- 버튼 위치 : 필터 영역 우측 배치 (예. 가입상담 화면 버튼 위치 참고 )
+- 버튼 명칭 : 아이콘 + 엑셀 다운로드
+- 버튼 노출 조건 : 가입상담 화면 버튼 권한과 동일
+
+## 5. 다운로드 정책
+- 다운로드 대상 데이터 현재 화면에 조회된 조건 기준 전체 데이터 다운로드 ※ 화면 페이징과 무관하게 전체 결과 다운로드
+- 다운로드 파일 형식 : .xlsx
+- 파일명 규칙 : 메뉴명_YYYYMMDDHHMMSS
+  - 예) 일반상담_20260519103000.xlsx
+  - 예) 이전상담_20260519103000.xlsx
+  - 예) 해지상담_20260519103000.xlsx
+  - 예) 가입상담_biz_20260519103000.xlsx
+  - 예) 가입상담_부가서비스_20260519103000.xlsx
+
+## 6. 메뉴별 다운로드 컬럼 정책
+### 6-1. 일반 상담
+| 컬럼명 | 비고 |
+|-|-|
+| 번호 | 화면 기준 |
+| 고객 ID | 마스킹 유지 |
+| 고객 이름 | 마스킹 유지 |
+| 상담메뉴 | |
+| 연락처 | 마스킹 유지 |
+| 제목 | |
+| 처리현황 | |
+| 작성일 | YYYY.MM.DD HH:mm:ss |
+
+### 6-2. 이전 상담
+| 컬럼명 | 비고 |
+|-|-|
+| 번호 | 화면 기준 |
+| 고객 ID | 마스킹 유지 |
+| 고객 이름 | 마스킹 유지 |
+| 상담메뉴 | |
+| 연락처 | 마스킹 유지 |
+| 제목 | |
+| 처리현황 | |
+| 작성일 | YYYY.MM.DD HH:mm:ss |
+
+### 6-3. 해지 상담
+| 컬럼명 | 비고 |
+|-|-|
+| 번호 | 화면 기준 |
+| 해지 유형 | |
+| 고객 ID | 마스킹 유지 |
+| 고객 이름 | 마스킹 유지 |
+| 상담메뉴 | |
+| 연락처 | 마스킹 유지 |
+| 제목 | |
+| 처리현황 | |
+| 작성일 | YYYY.MM.DD HH:mm:ss |
+
+### 6-4. 가입 상담(Biz)
+| 컬럼명 | 비고 |
+|-|-|
+| 번호 | 화면 기준 |
+| 센터 | |
+| 희망 상담 시간 | |
+| 상품 | |
+| 연락처 | 마스킹 유지 |
+| 기존고객 | |
+| 등록일 | YYYY.MM.DD HH:mm:ss |
+| 담당자 | |
+| 처리상태 | |
+
+### 6-5. 가입 상담(부가서비스)
+| 컬럼명 | 비고 |
+|-|-|
+| 번호 | 화면 기준 |
+| 센터 | |
+| 희망 상담 시간 | |
+| 상품 | |
+| 연락처 | 마스킹 유지 |
+| 기존고객 | |
+| 등록일 | YYYY.MM.DD HH:mm:ss |
+| 담당자 | |
+| 처리상태 | |
+
+## 7. 개인정보 정책
+엑셀 다운로드 시 화면과 동일한 마스킹 정책 유지
+
+### 예시
+- 연락처 : 010****1234
+- 고객명 : 김**
+- 고객 ID : KA***********
+
+※ 원본 개인정보 다운로드 불가
+
+## 8. 필터 연동 정책
+다운로드 시 현재 적용된 필터 조건 그대로 반영
+
+### 적용 대상
+- 검색어
+- 처리상태
+- 기간
+- 해지유형(해지상담만)
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @minwoo74859:T10c2,# 2차 작업 범위 (MY SKY 모바일 누구나 결합(친구 추천) 확인 페이지)
+### 화면설계
+https://www.figma.com/design/aoenaGjRVx9YiBHg4moNpv/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%88%84%EA%B5%AC%EB%82%98-%EA%B2%B0%ED%95%A9?node-id=0-1&t=r4KiOalxP7HFAFHn-1
+
+# 1차 작업 범위 (빠른접수 연락처 DB 수집 영역 선행 개발/배포)
+### 협의내용
+**[친구초대 번호 확인 정리]**
+1. 번호 입력란이 비어있을 때 : 데이터 없이 다음으로 넘어가기
+2. 번호 입력란에 데이터가 있을 때   
+ 2-1. 번호 입력은 했는데, 확인을 누르지 않고 넘어가려고 하는 경우 > 얼럿메시지 출력 후, 확인 유도 > 확인이 완료되거나, 입력란의 데이터를 비우지 않으면 얼럿메시지 반복 노출   
+ 2-2. 확인 결과 올바른 번호 > 번호 입력란 비활성화 > 다음단계 이동시, 데이터 들고 다음으로 넘어가기   
+ 2-3. 확인 결과 잘못된 번호 > 얼럿메시지 출력 후, 입력된 번호 남기기 > 사용자가 자신이 입력한 번호를 확인할 수 있으며, 이후는 2-1과 동일 진행
+
+# 친구 초대 관련 추가 협의/확인 내용 - 6.17 오지현 대리 확인
+  - 접수/개통 신청 페이지에 추천인 입력 및 유효 가입자 체크 버튼 필요
+  - 추천인 입력란은 상시 노출 
+  - 유심 신청/셀프개통, 알뜰폰, 결합 상품 등 모든 셀프 개통 접수 페이지에 들어 감
+
+# 친구초대 프로세스 변경에 따른 수정 사항
+
+- 발급 페이지 삭제 - 추천인 전화번호로 대체
+- 내역 조회 페이지 수정 - 초대 코드 항목 삭제
+
+[친구_초대_페이지_수정_20240612.pptx](/uploads/5fb6bfdfc8b6556e6b086ebc1a408b27/친구_초대_페이지_수정_20240612.pptx)
+
+<details><summary>변경 전 기존 내용</summary>
+
+### 구 화면설계
+https://www.figma.com/design/gdxRN7n2NZCB3kpq44SFHT/skylife_2023_06_DirectOrder?node-id=0-1&t=7PQzJjUoWD8CmN4T-1
+![image](/uploads/105d0998b2099f6ee95abe892413671b/image.png)
+
+### 플로우
+[친구초대_연락처_입력_확인_플로우.pptx](/uploads/2ddcd61d578e9be4d4c1f566b5faac66/친구초대_연락처_입력_확인_플로우.pptx)
+
+# 요청사항
+### 기본구조
+- 레퍼런스   
+KTM모바일의 기획전 친구초대 이벤트를 통한 결합 요금제 유도
+
+- 구현목적   
+친구초대(MGM)를 통한 자발적 마케팅 인프라 구축
+경쟁사처럼 특정 상품에 국한되지 않고, 기가입자의 초대를 받은 미가입자가 어떤 요금제든 가입 시키기
+
+- 자료   
+[친구초대_이벤트_유의사항v0.1__1_.docx](/uploads/49ec01e68b6e5c0cb949498a224ba432/친구초대_이벤트_유의사항v0.1__1_.docx)
+
+- 이벤트 시나리오   
+[skylife_2023_Friend_Scenario](https://www.figma.com/file/FcXstQLFHVGDswgL2LmZTb/skylife_2023_Friend_Scenario_Draft?type=whiteboard&node-id=0%3A1&t=gruwkDW2HgwCZlpt-1)
+
+- 화면설계   
+[피그마 링크](https://www.figma.com/file/tzgVUotGfey5s0rOV1Hjvt/skylife_2023_05_Friend?type=design&node-id=1%3A19&mode=design&t=ARmqUW06qJXAOYG6-1)
+
+- 디자인   
+[PC_brand_친구초대이벤트_친구초대_코드_발급](/uploads/45888e192a85707d924b3a26ece7541a/PC_brand_친구초대이벤트_친구초대_코드_발급.png)   
+[M_brand_친구초대이벤트_친구초대_코드_발급](/uploads/4fc335972d8dede2cc217ab830d541ca/M_brand_친구초대이벤트_친구초대_코드_발급.png)   
+[PC_brand_친구초대이벤트_친구초대_내역_확인](/uploads/82fa9bb68678e73a4739d49e7fb0be13/PC_brand_친구초대이벤트_친구초대_내역_확인.png)   
+[M_brand_친구초대이벤트_친구초대_내역_확인](/uploads/d2f8ac16dd6bef9a091251bc31508c04/M_brand_친구초대이벤트_친구초대_내역_확인.png)   
+
+- 디자인 파일   
+https://drive.worksmobile.com/#/public-group/QDEzNTMxNjh8MzQ3MjUyNzM3NjA2NTk5OTg4MHxEfDA
+
+- 신규페이지 URL
+
+| 화면명 | 영문명 | 화면ID | URL |
+| --- | --- | --- | --- |
+| 친구초대 | Friend invitation | | |
+| 친구초대 이벤트 | Friend invitation event | /EV/BR-EV0301-000000 | skylife.co.kr/BE/event/friend |
+| 친구초대 내역확인 | Check friend invitation history | /EV/BR-EV0302-000000 | skylife.co.kr/BE/event/friendlist |
+
+</details>
+
+- - -
+
+- 참고 : @JungMyungho @dwrapaela:T974,# 요청사항
+https://www.skylife.co.kr/my/mobile/price
+
+모바일 요금제 변경 페이지의 "이용 중인 요금제" 영역에 노출되는 금액이
+
+과거 가입 당시의 가격이 아닌, 요금 인상 또는 인하 이후의 현재 가격이 노출되고 있는 건에 대한 개선사항
+
+### 기존구조
+CMS 에 등록된 요금제 정보로 노출중 → 고객이 가입한 시점 대비 가격이 인상/인하된 경우 핸들링 불가능한 정보
+
+### 변경구조
+모바일 연동규격서 (INF-MMB-017) 에서 아래 두 값을 모두 내려주는 중 → 여기서 현재 내려주는 prmtChrgAm 을 노출하는 방향으로 수정 필요
+- chrgAmt : 현재 상품의 판매가 
+- prmtChrgAmt : 가입 당시 고객 상품의 판매가
+
+![image](/uploads/c81a4e2ed910107a138c2b89a5d15dde/image.png)
+
+### 샘플
+GET /api/restricted/mobile/{scrbrNo}/contract
+
+이 api 응답값 중 요금제 상품 정보의 prmtChrgAmt 필드 값으로 표기
+
+샘픔 데이터 : 
+```
+{
+            "prdtCd": "PL238P572",
+            "prdtNm": "모두 충분 7GB+(Pay_5000)",
+            "prdtClCd": "01",
+            "prdtDtlClCd": "P",
+            "prdtTypeCd": "02",
+            "prdtCost": 24900,
+            "discAmt": 6400,
+            "chrgAmt": 18500,
+            "dtlDesc": "음성 : 무제한(영상/부가 300분) / 데이터 : 7GB+1Mbps / 문자 : 무제한 / WiFi : 무료 / QOS : 1Mbps \n※ 네이버페이 모바일쿠폰 5,000포인트 제공 (실사용 30일 충족시 31일째 제공)",
+            "voiceSupyQty": "무제한",
+            "videoExCallSupyQty": "300",
+            "smsSupyQty": "무제한",
+            "lmsSupyQty": "무제한",
+            "mmsSupyQty": "무제한",
+            "dataMmSupyQty": "7168",
+            "qosType": "1Mbps",
+            "wifiSupyQty": "Y",
+            "validFrDh": "20260430103026",
+            "addYn": null,
+            "prmtDiscAmt": "6400",
+            "prmtChrgAmt": "18500",
+            "ktPrdtHistSeq": "300001648662694",
+            "paramSbstYn": "N",
+            "paramSbst": null,
+            "addParamTypeCd": null,
+            "pricePlanType": "LTE",
+            "dataDdSupyQty": null,
+            "exPrmtType": null,
+            "exPrmtDtl": "네이버페이 모바일쿠폰 5,000포인트 제공 (실사용 30일 충족시 31일째 제공)"
+        },
+```
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheolb:T9c6,# 요청사항
+6/1 기준 CU 제휴요금제 혜택 변경으로 인한 상세페이지 내용 업데이트
+
+현재 6개 요금과 #3341 이슈로 신규요금 1건이 추가되어 총 7건의 요금제가 수정 대상
+
+### 요금제 리스트
+| 요금제명 | 상품코드 | 상세페이지 링크 | 비고 |
+|-|-|-|-|
+| 모두 충분 7GB+(CU) | PL2639485 | /product/mobile/goods/pl2639485 | 신규 요금제, #3341 이슈 당시 취합된 피그마 내용도 업데이트 완료 |
+| 모두 충분 10GB+(CU) | PL247U570 | https://www.skylife.co.kr/product/mobile/goods/pl247u570 |
+| 모두 충분 15GB+(CU) | PL247T531 | https://www.skylife.co.kr/product/mobile/goods/pl247t531 |
+| 모두 충분 11GB+(CU) | PL244N954 | https://www.skylife.co.kr/product/mobile/goods/pl244n954 |
+| 모두 충분 100GB+(CU) | PL244N949 | https://www.skylife.co.kr/product/mobile/goods/pl244n949 |
+| 데이터 충분 15GB+/100분(CU) | PL244N958 | https://www.skylife.co.kr/product/mobile/goods/pl244n958 |
+| 데이터 충분 15GB+/300분(CU) | PL247T532 | https://www.skylife.co.kr/product/mobile/goods/pl247t532 |
+
+## 수정범위
+### 1. 라이프핏 리스트 CU 혜택 이미지 (CMS 연동)
+이미지 3컷 교체 필요
+- MO 리스트(640*288): [CU_PC_리스트_x2_260601](/uploads/935d3568bb30fdba6d3814606b9cbb36/CU_PC_리스트_x2_260601.png)
+- PC 리스트(800*360): [CU_MO_리스트_x2_260601](/uploads/cb9edb229055ef7ca13d9b182629743c/CU_MO_리스트_x2_260601.png)
+- PC 테스트 결과(170*270): [CU_PC_테스트_결과_260601](/uploads/d03b289094aa381bfb1fb803f362df64/CU_PC_테스트_결과_260601.png)
+
+![image](/uploads/51701ba9007f39613bcfb712ad145838/image.png)
+
+### 2. 상세페이지 최상단
+- 간단소개 (CMS 연동)
+  - 기존: ~~매월 평생 CU 20% 결제할인 + get커피 XL 교환권~~
+  - 변경: 매월 평생 CU 20% 결제할인 + get커피 아이스 50% 할인권 2매
+- 혜택 항목 (하드코딩)
+  - 기존: ~~CU get커피 XL 교환권~~
+  - 변경: CU get커피 아이스 50% 할인권 2매
+
+![image](/uploads/05c82596c52c16d91aa439cce4b57df1/image.png)
+
+### 3. 상세페이지 요금안내 영역
+- 제휴 요금제 혜택 안내 (하드코딩)
+  - 기존: ~~매월 간편식 30% 할인권 또는 get커피 아이스 XL 교환권까지!~~
+  - 변경: 매월 간편식 30% 할인권 또는 get커피 아이스 50% 할인권 2매까지!
+
+![image](/uploads/fe5f4196d6396f5f959902bdf839b914/image.png)
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwhc:T58f,# 요청사항
+## 1. 신규 요금제 2종 신/구 CMS 등록 관리
+### 신규 요금제 등록 정보
+| 상품명 | 상품코드 | 카테고리 | 간단설명 | 기본료 | 할인 | 청구액 | 데이터 | QOS | 음성(분) | 영상/부가 | 문자 | 
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| 5G 슬림 20GB/200분 | PL2639484 | 5G | 필요한만큼 골라쓰는 5G 요금제! | 26900 | 8000 | 18900 | 20GB | X | 200분 | X | 100건 |
+| 모두 충분 7GB+(CU) | PL2639485 | 라이프핏, 데이터 무제한, 라이프핏(CU) | 매월 평생 CU 20% 결제할인 + get커피 XL 교환권 | 22000 | 5300 | 16700 | 7GB | 1Mbps | 기본제공 | 300분 | 기본제공 |
+
+### 참고자료
+[_kt_skylife__6월_1일자_출시_무선_신규_요금제_260526.xlsx](/uploads/1dbd43299613257b65eca7e769a95c5d/_kt_skylife__6월_1일자_출시_무선_신규_요금제_260526.xlsx)
+
+## 2. 신규 요금제 2종 상세페이지 구축
+- 5G 슬림 20GB/200분: /product/mobile/goods/pl2639484
+- 모두 충분 7GB+(CU): /product/mobile/goods/pl2639485 
+
+### 신규 요금제 상세페이지 디자인 피그마
+https://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=23827-9683&t=FTfHVkBcI5I4yK7P-4
+- 혜택 케이스는 별도 이슈로 정리 예정
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwhd:Tbfd,# 요청사항
+https://www.skylife.co.kr/benefit/card
+
+## 1. 국민카드
+- 변동사항: 상세이미지 일자 및 내용 변경
+- PC 이미지: [6월_KB카드_PC](/uploads/8b155cc5af2ecc8764abc4038a26a7a9/6월_KB카드_PC.jpg)
+- MO 이미지: [6월_KB카드_MO](/uploads/b378091df44580eaf66254616cfdb488/6월_KB카드_MO.jpg)
+- 간편 발급 신청 URL: 변동사항 없음
+- 유의사항: 변동사항 없음
+
+## 2. 신한카드
+- 변동사항: 상세이미지 일자 변경
+- PC 이미지: [6월_신한카드_PC](/uploads/0a6cf619a2df5e331e3aff7ba518045f/6월_신한카드_PC.jpg)
+- MO 이미지: [6월_신한카드_MO](/uploads/c9ac594ff49b834a25910f53140ec0a9/6월_신한카드_MO.jpg)
+- 간편 발급 신청 URL: 변동사항 없음
+- 유의사항: 변동사항 없음
+
+## 3. 하나카드
+- 변동사항: 변동사항 없음
+- PC 이미지: 변동사항 없음
+- MO 이미지: 변동사항 없음
+- 간편 발급 신청 URL: 변동사항 없음
+- 유의사항: 변동사항 없음
+
+## 4. 롯데카드
+- 변동사항: 상세이미지 일자 변경
+- PC 이미지: [6월_롯데카드_PC](/uploads/f7d4e99fcbd6f180ada217241b38186d/6월_롯데카드_PC.jpg)
+- MO 이미지: [6월_롯데카드_MO](/uploads/e27e9409d37d49979773928f79a94c92/6월_롯데카드_MO.jpg)
+- 간편 발급 신청 URL: 변동사항 없음
+- 유의사항: 변동사항 없음
+
+## 5. BC카드
+- 변동사항: 상세이미지 일자 및 내용, 유의사항 변경
+- PC 이미지: [6월_BC카드_PC](/uploads/7ffeb54c4db65aad37eb3bef523b7740/6월_BC카드_PC.png)
+- MO 이미지: [6월_BC카드_MO](/uploads/4bbe0fb05b770f31556f6afa585b607e/6월_BC카드_MO.png)
+- 간편 발급 신청 URL: 변동사항 없음
+- 유의사항 변경/추가 문구 (위치는 하단에 체크한 이미지 참고)
+  - (수정) 월 통신요금이 할인한도보다 적을 경우 통신요금만큼 할인됩니다.
+  - (신규) 이벤트 시작 직전 6개월간 모든 BC바로 개인 신용카드(본인/가족)로 결제한 이력(후불하이패스, 후불교통, 이동통신 등 자동납부, 문자 알림서비스 결제건 등 포함) 이 있는 고객은 혜택 제공 대상에서 제외됩니다.
+  - (신규) **이벤트 시작일 이전에 이벤트 대상 카드를 취소/해지/탈회 또는 소지한 고객은 혜택 제공 대상에서 제외됩니다.**
+  - (신규) 전월 이용금액(실적) 충족여부는 페이북 앱→이용내역→실적충족현황에서 확인 가능합니다.
+  - (수정) 전월실적은 카드 이용시점 기준 전월 1일부터 말일(매출 승인)까지 국내외 가맹점 이용금액이며, 해외결제 건 및 무승인 결제건(대중교통, 통신요금, 자동납부 등)의 경우 카드사에 접수된 매출전표 매입시점 기준으로 적용됩니다.
+  - (수정) 준법감시인 2026-0983호
+  - (수정) 여신금융협회의 심의필 제 2026 - C1h - 07031호 (2026.05.13 ~ 2027.05.12)
+
+![image](/uploads/e14ac5465b611972480ac8b63d5ab522/image.png)
+
+- - -
+
+@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh2:["$","div",null,{"className":"workspace","style":{"minHeight":"100vh","background":"var(--background)"},"children":["$","$L6",null,{"inProgress":[{"id":7708,"iid":3356,"project_id":3,"title":"[공통, 구)Shop, 긴급] MVNO 셀프가입 약관 업데이트","description":"# 요청사항\n- https://www.skylife.co.kr/directOrder/main?mvno=pl234d620 등 모바일이 포함된 모든 결합\n- https://shop.skylife.co.kr/mvno/appinfo?code=12Xh1W 등 모든 온라인서식지\n\n[선택] 개인정보 제3자 정보제공 상세내용 중, \"제공 받는 자\" 항목의 제휴사 업데이트\n\n현재 통합과 온라인서식지의 제휴사 리스트가 조금 다른데 둘다 동일하게 아래 내용으로 업데이트\n\n### 업데이트 내용\n헥토이노베이션, 아톤, 인포바인, 데이터유니버스, 핀브릿지, 브이피, 드림시큐리티, 더치트, 한국모바일인증, 에이티애널리틱스, 나이스평가정보, 라온시큐어, 와이즈솔루션, 오션블루, 수퍼블리, 알티너스\n\n![image](/uploads/f8fa89ffb763b4caa860b8d6ffc6af08/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-05-29T01:22:12.959Z","updated_at":"2026-05-29T01:22:12.959Z","closed_at":null,"closed_by":null,"labels":["공통","구)Shop","긴급","진행중"],"milestone":{"id":935,"iid":872,"project_id":3,"title":"2026.05.29","description":"","state":"active","created_at":"2026-05-28T08:52:17.316Z","updated_at":"2026-05-28T08:52:17.316Z","due_date":"2026-05-29","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/872"},"assignees":[{"id":6,"username":"nmwh","name":"김도환","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/6/avatar.png","web_url":"https://gitlab.skylife.co.kr/nmwh"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":6,"username":"nmwh","name":"김도환","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/6/avatar.png","web_url":"https://gitlab.skylife.co.kr/nmwh"},"user_notes_count":1,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3356","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3356","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3356/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3356/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3356","relative":"#3356","full":"manage/2022#3356"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7707,"iid":3355,"project_id":3,"title":"모바일 이용약관 변경 게시 ('26.06.01)","description":"# 요청사항\nhttps://www.skylife.co.kr/policy/terms/product/04\n\n2026.06.01 일자 시행\n\n- 교체PDF: [skylife_모바일서비스_이용약관_20260601_B.pdf](/uploads/6e56217347a7171442a4068b7ad54743/skylife_모바일서비스_이용약관_20260601_B.pdf)\n- 개정내용: [붙임2_skylife_모바일서비스_이용약관_신구조문_대조표_20260601__1_.docx](/uploads/c901af7b5676a03fee643e5eea454fe6/붙임2_skylife_모바일서비스_이용약관_신구조문_대조표_20260601__1_.docx)\n  - 제7조, 제15조, 제18조, 제28조, 제52조, 제54조, 제55조, 제56조 내용 업데이트\n  - 시행일 업데이트\n  - 그 외는 첨부파일 내 별표 업데이트\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol","state":"opened","created_at":"2026-05-28T09:21:14.841Z","updated_at":"2026-05-28T09:21:14.841Z","closed_at":null,"closed_by":null,"labels":["공통","진행중"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":0,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3355","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3355","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3355/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3355/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3355","relative":"#3355","full":"manage/2022#3355"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7705,"iid":3353,"project_id":3,"title":"[공통] 시즌별 디자인 변경 _ 월드컵 시즌","description":"# 요청사항\n시즌별 로고 및 디자인 요소 추가 작업 \n\n최근 작업 이슈: #3235\n\n- 적용: '26.06.04(목) 15시 정기배포\n- 원복: 미정(7월 예상)\n\n### 작업범위\n- 공통 GNB 로고 이미지\n- PC 전체 공통 우측 플로팅 챗봇 버튼\n- PC 전체 공통 하단 스티키\n- MO 메인 전용 우측 챗봇 버튼\n- MO 메인 제외 하단 스티키\n\n### 디자인 피그마\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=23828-8721\n\n![image](/uploads/cb5beb5754a90405a5a04675602f8b6d/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh @minje","state":"opened","created_at":"2026-05-28T08:33:34.549Z","updated_at":"2026-05-28T08:33:34.549Z","closed_at":null,"closed_by":null,"labels":["공통","진행중"],"milestone":{"id":934,"iid":871,"project_id":3,"title":"2026.06.04","description":"","state":"active","created_at":"2026-05-28T08:27:26.738Z","updated_at":"2026-05-28T08:27:26.738Z","due_date":"2026-06-04","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/871"},"assignees":[{"id":73,"username":"minje","name":"minje shin","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/73/avatar.png","web_url":"https://gitlab.skylife.co.kr/minje"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":73,"username":"minje","name":"minje shin","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/73/avatar.png","web_url":"https://gitlab.skylife.co.kr/minje"},"user_notes_count":1,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3353","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3353","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3353/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3353/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3353","relative":"#3353","full":"manage/2022#3353"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7697,"iid":3345,"project_id":3,"title":"[공통] 하드코딩 기획전 업데이트 (가전 TV 페스티벌)","description":"$7","state":"opened","created_at":"2026-05-27T07:35:53.432Z","updated_at":"2026-05-29T01:40:52.195Z","closed_at":null,"closed_by":null,"labels":["공통","진행중"],"milestone":{"id":932,"iid":869,"project_id":3,"title":"2026.06.01","description":"","state":"active","created_at":"2026-05-27T07:03:21.393Z","updated_at":"2026-05-27T07:03:21.393Z","due_date":"2026-06-01","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/869"},"assignees":[{"id":6,"username":"nmwh","name":"김도환","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/6/avatar.png","web_url":"https://gitlab.skylife.co.kr/nmwh"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":6,"username":"nmwh","name":"김도환","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/6/avatar.png","web_url":"https://gitlab.skylife.co.kr/nmwh"},"user_notes_count":4,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3345","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3345","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3345/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3345/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3345","relative":"#3345","full":"manage/2022#3345"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7695,"iid":3343,"project_id":3,"title":"[공통] 모바일 혜택 케이스 현행화 ('26.06.01)","description":"# 요청사항\n모든 모바일 요금제 혜택 케이스 구분 현행화 작업\n\n## 변경사항\n- 기존 B 정기혜택, 기존 C 가입혜택 위치 서로 교체\n- 변경 B 가입혜택: 내용 수정\n- 변경 C 정기혜택: 내용 수정\n- G 혜택: 내용 수정\n- G 혜택: 유형 2, 6, 7, 8에서 삭제\n- 기존 H 혜택: 전체 유형에서 삭제\n- 신규 유형 3-2 추가 후, 기존 유형 3에서 8개 요금제 이동 (데이터 충분 15GB+/N분 유형)\n  - PL207U859\n  - PL244N958\n  - PL257F930\n  - PL2192923\n  - PL247T532\n  - PL2595317\n  - PL2595322\n  - PL2595320\n- 신규 유형 9 추가 후, 기존 유형 8에서 1개 요금제 이동 (5G 모두 충분 14GB+)\n  - PL2544319\n- 신규 요금제 2종 추가 (#3341)\n  - 5G 슬림 20GB/200분 (PL2639484) 요금제 유형 2로 추가\n  - 모두 충분 7GB+(CU) (PL2639485) 요금제 유형 7로 추가\n\n## 변경사항 정리 구글시트\nhttps://docs.google.com/spreadsheets/d/1OrRMTKJgatagTIaGTOxQzKbQqWpWMuR7rmYG3qitD-k/edit?gid=1133033165#gid=1133033165\n\n![image](/uploads/f6e5a431657ea19de7f38b7eab48e0f5/image.png)\n\n- - -\n\n@dadoong @SONGHEE @hyeon.jg @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-05-27T07:00:11.209Z","updated_at":"2026-05-28T05:19:38.315Z","closed_at":null,"closed_by":null,"labels":["공통","진행중"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":2,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3343","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3343","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3343/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3343/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3343","relative":"#3343","full":"manage/2022#3343"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7682,"iid":3330,"project_id":3,"title":"[통합APP] 가입계약 미조회 무한 로딩 화면 개선","description":"# 요청사항\n가입계약 미조회 케이스에서 \"잠시만 기다려주세요\" 화면에서 넘어가지 않는 현상\n\n- 해당화면의 안내 멘트를 보강\n- 다시 로그인 버튼을 추가하여 클릭 유도\n- 클릭시 로그아웃 후 로그인 페이지로 이동\n  - 로그인 시, 기존 페이지로 이동되도록 처리\n\n### 피그마 디자인\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=23653-8586&t=7pc9REnyfDXhASLc-4\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-05-20T02:31:51.994Z","updated_at":"2026-05-21T06:13:51.601Z","closed_at":null,"closed_by":null,"labels":["진행중","통합APP"],"milestone":{"id":910,"iid":847,"project_id":3,"title":"2026.05 개발리스트","description":"","state":"active","created_at":"2026-04-21T04:34:16.899Z","updated_at":"2026-04-21T04:34:16.899Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/847"},"assignees":[{"id":7,"username":"sucheol","name":"명수철","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/7/avatar.png","web_url":"https://gitlab.skylife.co.kr/sucheol"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":7,"username":"sucheol","name":"명수철","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/7/avatar.png","web_url":"https://gitlab.skylife.co.kr/sucheol"},"user_notes_count":1,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3330","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3330","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3330/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3330/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3330","relative":"#3330","full":"manage/2022#3330"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7681,"iid":3329,"project_id":3,"title":"[CMS] 고객 상담 관리 엑셀 다운로드 기능 추가 개발","description":"$8","state":"opened","created_at":"2026-05-19T01:45:12.559Z","updated_at":"2026-05-29T01:56:18.772Z","closed_at":null,"closed_by":null,"labels":["CMS","진행중"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":2,"username":"minwoo7485","name":"이민우","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/2/avatar.png","web_url":"https://gitlab.skylife.co.kr/minwoo7485"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":2,"username":"minwoo7485","name":"이민우","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/2/avatar.png","web_url":"https://gitlab.skylife.co.kr/minwoo7485"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3329","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3329","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3329/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3329/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3329","relative":"#3329","full":"manage/2022#3329"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7537,"iid":3185,"project_id":3,"title":"[공통, 구)Shop] 모바일 셀프개통 안면인증 안정화기간 종료","description":"# 요청사항\n안정화기간 종료로 인한 #2965 이슈 개발 당시의 204 코드 예외 기능과 #3175 이슈로 추가된 건너뛰기 기능 제거 작업 \n\n### 배포일정\n안정화 기간이 종료되는 22일에 맞춰, 개통가능 시간 이후인 22일 22시 이후 ~ 23일 08시 이전에 사이에 적용필요\n\n### 수정사항 디자인 피그마\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=21216-17306&t=zi3IoJIzq21UBPSX-4\n\n### 안정화기간 종료 체크리스트\n- 건너뛰기 버튼 제거\n  - 관련 소스를 걷어내긴 해야 하지만 겉으로는 단순히 UI에서 버튼 제거만으로 해결 가능하므로 큰 문제는 되지 않음\n- 204 코드에 대한 처리 방향 체크\n  - ~~KT에서 앞으로 204 코드를 내려주지 않게 되는가?~~\n  - **아니면 204는 그대로 내려주나 홈페이지에서 처리해둔 로직을 일반실패와 동일하게 처리하면 되는가?** (이쪽으로 진행)\n  - 실패 얼럿 메시지는 어떻게 처리할 것인가? -> **실패코드 100과 동일하게 처리**\n- 안정화기간 안내문구 영역 수정   \n  - ![image](/uploads/2aa54a724fab8db4c06cbd327cd3ca83/image.png)\n  - ![image](/uploads/c158c2c7b6f946c3ed705eaeda97ea88/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-03-12T07:36:48.703Z","updated_at":"2026-05-28T02:28:51.525Z","closed_at":null,"closed_by":null,"labels":["공통","구)Shop","진행중"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":7,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3185","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3185","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3185/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3185/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3185","relative":"#3185","full":"manage/2022#3185"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":6790,"iid":2513,"project_id":3,"title":"[공통] 셀프가입 시, 옵션값 선택상태 URL 생성 개발","description":"# 요청사항\nhttps://www.skylife.co.kr/directOrder/main\n\n## 1차. TV/인터넷 옵션값 선택상태로 접근 가능하도록 개발\n- 공통) 할인카드\n- TV 단독) 약정\n- 인터넷 포함) 혜택\n- 인터넷 포함) WiFi (공유기)\n\n## 2차. 모바일 옵션값 선택 상태로 접근 가능하도록 개발\n현재 UI에서 기술적으로 가능한지부터 검토 필요\n- SIM 카드\n- 유심 보유 여부\n  - \"없어요\" 일 경우, 유심 종류\n- 고객 유형\n- 가입 유형\n\n## ~~3차? #2260 개발 이후, 부가서비스도 선택 상태?~~\n~~개발이 필요한지부터 확인 필요~~\n\n- - -\n\n* 요청: @hchj \n* 참조: @SONGHEE @dadoong @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2025-06-09T08:43:03.724Z","updated_at":"2026-04-02T07:09:23.844Z","closed_at":null,"closed_by":null,"labels":["공통","진행중"],"milestone":{"id":672,"iid":609,"project_id":3,"title":"2026 우선순위 미정 개발리스트","description":"","state":"active","created_at":"2025-04-11T09:27:00.488Z","updated_at":"2025-12-16T01:57:27.119Z","due_date":"2026-12-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/609"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/2513","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/2513","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/2513/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/2513/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#2513","relative":"#2513","full":"manage/2022#2513"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":4755,"iid":1618,"project_id":3,"title":"[브랜드] MY SKY 모바일 누구나 결합(친구 추천) 확인 페이지 개발","description":"$9","state":"opened","created_at":"2023-10-11T04:06:26.200Z","updated_at":"2025-02-10T06:05:35.113Z","closed_at":null,"closed_by":null,"labels":["api","구)Brand","구)Shop","진행중","통합APP"],"milestone":{"id":1,"iid":1,"project_id":3,"title":"오랜기간 방치되어 재검토가 필요한 개발리스트","description":"","state":"active","created_at":"2022-06-30T05:11:12.604Z","updated_at":"2025-06-05T01:41:30.549Z","due_date":"2026-12-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/1"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":21,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/1618","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/1618","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/1618/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/1618/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#1618","relative":"#1618","full":"manage/2022#1618"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null}],"pending":[{"id":7704,"iid":3352,"project_id":3,"title":"[공통] MVNO 셀프개통 유심 부정개통 방지 제한 로직 개발","description":"# 요청사항\n유심 부정개통 방지를 위한 셀프개통 제한 로직 개발\n\n우선순위 ASAP 건이나, 기간계 선행작업이 필요\n\n### 기간계 선행 개발 내용\n연동규격 MMB013 상에 유심 판매처 코드 정보 추가 (*기존 유심 유효성 결과값 호출 유지)\n\n### 요청배경 및 개발 상세 내용 (노션)\nhttps://guttural-napkin-6e2.notion.site/PRD-36d609808563803c9428d1692110c493\n\n### 유심 판매처 P코드 리스트(기간계에서 연동규격에 추가할 내용)\n[본사_제휴_p코드_리스트_26.04기준_.xlsx](/uploads/0d77e100ad92bb18f6b6ec1a4ebc7c4d/본사_제휴_p코드_리스트_26.04기준_.xlsx)\n- 참고) 금번에 막으려고 하는 판매처는 이마트24_KT공용(P00023)\n\n### 주요 프로세스\n1. 고객이 유심번호 입력 후 유심 유효성 검사 진행\n2. 홈페이지 MMB013 연동 호출\n3. 기간계에서 유심 유효성 결과값 및 판매처 코드 응답\n4. 홈페이지에서 응답 결과별 프로세스 분기 핸들링\n\n### 안내 팝업 디자인(피그마)\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=23850-6176&t=RvbVMrG9V53b0Nc8-4\n\n![image](/uploads/a2cd96338abc936c9c3a0d1f8d03ed72/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol","state":"opened","created_at":"2026-05-28T06:14:47.615Z","updated_at":"2026-05-28T06:14:47.615Z","closed_at":null,"closed_by":null,"labels":["공통","작업 대기"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":0,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3352","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3352","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3352/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3352/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3352","relative":"#3352","full":"manage/2022#3352"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7699,"iid":3347,"project_id":3,"title":"[공통, API] 마이 > 모바일 요금제 변경 > 이용 중인 요금제 가격 표기 방식 변경","description":"$a","state":"opened","created_at":"2026-05-27T08:39:19.022Z","updated_at":"2026-05-27T08:42:56.741Z","closed_at":null,"closed_by":null,"labels":["api","공통","작업 대기"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":0,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3347","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3347","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3347/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3347/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3347","relative":"#3347","full":"manage/2022#3347"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7685,"iid":3333,"project_id":3,"title":"[공통] 채널 정보 변경 (6/16)","description":"# 요청사항\n## 변경 일자\n‘26년 6월 16일(화) 오전 10시 \n\n## 변경 내용\n| 채널번호 | 기존 채널명 | 변경 채널명 |\n|-|-|-|\n| 360번 | Satio 엄마랑 EQ동요 | Satio 최신유행 클럽음악 |\n| 362번 | Satio 스무드재즈앤더팜비치 | Satio TV속 화제음악 |\n| 363번 | Satio 럭셔리 파티 라운지 | Satio 엄마랑 EQ동요 |\n| 364번 | Satio 최신유행 클럽음악 | Satio 스무드재즈앤더팝비치 |\n\n### 채널별 상세정보 업데이트\n확인중\n\n## 처리범위 체크\n- 채널 안내 페이지\n  - https://www.skylife.co.kr/product/tv/channelNo/category?type=tv\n  - CMS 업데이트\n- 실시간 편성표 페이지\n  - https://www.skylife.co.kr/product/tv/channelNo/chart?type=tv \n  - 페이지 최하단 \"오디오 채널 안내\" 이미지 변경\n  - https://www.skylife.co.kr/images/product/channel/skylife_Channel_audio_251030.jpg\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol","state":"opened","created_at":"2026-05-20T07:08:11.587Z","updated_at":"2026-05-20T07:09:54.173Z","closed_at":null,"closed_by":null,"labels":["공통","작업 대기"],"milestone":{"id":930,"iid":867,"project_id":3,"title":"2026.06.16","description":"","state":"active","created_at":"2026-05-20T07:09:48.246Z","updated_at":"2026-05-20T07:09:48.246Z","due_date":"2026-06-16","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/867"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":0,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3333","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3333","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3333/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3333/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3333","relative":"#3333","full":"manage/2022#3333"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7639,"iid":3287,"project_id":3,"title":"[공통] 모바일 가입정보 페이지 대표회선 설정 기능 개발","description":"# 요청사항\nhttps://www.skylife.co.kr/my/mobile/info\n\n현재 복수의 회선을 가진 사용자가 위젯에서 매번 회선이 바뀌는 이슈 발생중\n\n히스토리상 위젯은 가장 상단의 회선을 보여주고 있으며,\n\n과거에는 대표회선 설정이 가능하여 최상단 회선을 고정할 수 있었던 것으로 보임\n\n이에 따라 다음과 같이 대표회선 기능 개발 검토 필요\n\n### 정책 정리(노션)\nhttps://guttural-napkin-6e2.notion.site/2-34560980856380c1b78dd92c9e75f138\n- 7번 예외 케이스에 대한 디테일 재검토 필요\n\n### 디자인 피그마\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=22654-18375&t=drZ5I81PPWOjHBJh-4\n- ~~4/24 > PC화면이 없어 확인중~~ MO만 진행하기로 확정\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh @ohtakin","state":"opened","created_at":"2026-04-24T08:06:14.305Z","updated_at":"2026-05-28T07:44:13.083Z","closed_at":null,"closed_by":null,"labels":["공통","작업 대기"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":0,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3287","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3287","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3287/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3287/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3287","relative":"#3287","full":"manage/2022#3287"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7635,"iid":3283,"project_id":3,"title":"[통합M] 구)설문조사 페이지 신규 서버 이관","description":"# 이슈내용\n#1612 이슈로 개발한 구) 설문조사 페이지 m.skylife.co.kr/service 를 신규서버로 이관하는 작업\n\n### 1차) 이관 검토\n- 24년 **이전**에 개발된 톤앤매너가 맞춰지지 않은 설문조사 페이지\n  - 해당 페이지 접근을 위한 스카이라이프 URL 제공 필요\n  - 해당 페이지 또한 현재 톤앤매너에 맞춘 디자인 작업 필요\n- 24년 **이후**에 개발된 설문조사 페이지\n  - 톤앤매너에 큰 문제가 없으므로 UI 그대로 재활용할 수 있을지 퍼블리싱 검토 필요\n  - 신규 서버에서 동일하게 재구축시 프론트/백엔드 개발 공수 검토 필요\n\n### 테스트정보\n- 24년 이전 1차 설문 URL 구조: 확인중\n- 24년 이후 2차 설문 URL 구조: /service?instal_type=9&expire=20240630&recvNo=0000000010\n\n### 24년 이전 개발 설문조사 화면 디자인\n확인중\n\n### 24년 이후 개발 설문조사 화면 디자인\n![image](/uploads/8ec7c8a7726c98c508a7c5d310dbb1eb/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol","state":"opened","created_at":"2026-04-22T08:32:32.941Z","updated_at":"2026-05-20T01:10:04.624Z","closed_at":null,"closed_by":null,"labels":["작업 대기","통합M"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":1,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3283","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3283","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3283/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3283/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3283","relative":"#3283","full":"manage/2022#3283"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null}],"readyForDeploy":[{"id":7706,"iid":3354,"project_id":3,"title":"[공통] 통합 검색 GEO 컨텐츠(스라꿀팁) 업데이트","description":"# 요청사항\nhttps://www.skylife.co.kr/search\n\n#3259 이슈로 추가한 하드코딩 검색 컨텐츠 신규 업데이트\n\n가장 최근 작업 이슈 #3302 기준 60개 내용에 추가로 15건 추가 필요\n\n아래 공유 문서 번호 61~75번 시간 설정 없이 배포 즉시 노출로 업데이트\n\n### 자료\nhttps://docs.google.com/spreadsheets/d/1U-xY10jssF7Wrj3W1_O4UT6srkB5BN-CoJJBYXvDXv4/edit?gid=0#gid=0\n\n![image](/uploads/0a20664e189dc994472c17b7e9b7e28c/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh @minje @jhjjung","state":"opened","created_at":"2026-05-28T08:58:55.027Z","updated_at":"2026-05-29T01:29:15.221Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":935,"iid":872,"project_id":3,"title":"2026.05.29","description":"","state":"active","created_at":"2026-05-28T08:52:17.316Z","updated_at":"2026-05-28T08:52:17.316Z","due_date":"2026-05-29","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/872"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3354","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3354","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3354/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3354/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3354","relative":"#3354","full":"manage/2022#3354"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7698,"iid":3346,"project_id":3,"title":"[공통] 모바일 CU 제휴 요금제 현행화 ('26.06.01)","description":"$b","state":"opened","created_at":"2026-05-27T08:30:31.585Z","updated_at":"2026-05-28T04:55:17.135Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3346","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3346","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3346/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3346/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3346","relative":"#3346","full":"manage/2022#3346"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7696,"iid":3344,"project_id":3,"title":"[공통] 메인 배너 및 팝업 수정 게시","description":"# 요청사항\nhttps://www.skylife.co.kr/Main\n\n스가페 메인 배너 및 메인 팝업 수정 게시\n\n## 1. 4번 메인 배너 이미지 변경\n랜딩, 문구 기존과 변동없이 이미지만 변경\n\n- 배너 이미지(피그마): https://www.figma.com/design/JdHtV1qtvFAuzQEdUyXjXq/Skylife-%EC%9B%B9%EC%95%B1-%ED%8C%9D%EC%97%85-%EB%B0%B0%EB%84%88-%EA%B4%80%EB%A6%AC?node-id=1005-1211&t=5LpDAb2v98cvU7qt-4\n\n![image](/uploads/c943afcc7b371156784385ad837263d4/image.png)\n\n![image](/uploads/d0dc9803dc4d95aefe1abff273610f36/image.png)\n\n## 2. 1번 메인 팝업 이미지 변경\n\n- 팝업 이미지(피그마): https://www.figma.com/design/JdHtV1qtvFAuzQEdUyXjXq/Skylife-%EC%9B%B9%EC%95%B1-%ED%8C%9D%EC%97%85-%EB%B0%B0%EB%84%88-%EA%B4%80%EB%A6%AC?node-id=1005-435&t=VBeYlN81ewMxB6Pk-4\n\n![image](/uploads/f0783c2bb3da5d6e56c9ef894db5c8b0/image.png)\n\n![image](/uploads/251c1e17b57a4bc14c518d0461c65cbe/image.png)\n\n- - -\n\n@SONGHEE @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-05-27T07:13:33.729Z","updated_at":"2026-05-27T09:31:43.732Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":932,"iid":869,"project_id":3,"title":"2026.06.01","description":"","state":"active","created_at":"2026-05-27T07:03:21.393Z","updated_at":"2026-05-27T07:03:21.393Z","due_date":"2026-06-01","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/869"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":4,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3344","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3344","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3344/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3344/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3344","relative":"#3344","full":"manage/2022#3344"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7693,"iid":3341,"project_id":3,"title":"[공통, 구)Shop] 모바일 요금제 현행화 ('26.06.01)","description":"$c","state":"opened","created_at":"2026-05-26T07:44:22.617Z","updated_at":"2026-05-28T05:20:25.589Z","closed_at":null,"closed_by":null,"labels":["공통","구)Shop","배포대기"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3341","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3341","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3341/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3341/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3341","relative":"#3341","full":"manage/2022#3341"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7690,"iid":3338,"project_id":3,"title":"[공통] 셀프가입 플로팅 팝업 현행화 ('26.06.01)","description":"# 요청사항\n\n셀프가입시 우측 하단 플로팅 버튼 클릭/터치 하면 노출되는\n\n혜택 팝업 내용 업데이트\n\n- 시행일 : 6/1~\n- 디자인 수정 X, 단순 카피 수정 O\n \n### 1. TV+인터넷 결합 시\nhttps://www.skylife.co.kr/directOrder/main?tv=iptv-basic&internet=sky-100m 등 모든 DPS 케이스\n\n변동없음\n\n### 2. 모바일 단독 시\nhttps://www.skylife.co.kr/directOrder/main?mvno=pl22bs575 등 모든 모바일 단독 케이스\n\n### 기존\n모바일 개통하고,   \n~~12만원~~ 혜택 받아가세요!\n- 가입 혜택 3만원\n- 정기 혜택 6만원\n- 셀프가입 혜택 ~~3만원~~\n- 누구나 결합 최대 20GB+\n\n### 변경\n모바일 개통하고,   \n14만원 혜택 받아가세요!\n- 가입 혜택 3만원\n- 정기 혜택 6만원\n- 셀프가입 혜택 5만원\n- 누구나 결합 최대 20GB+\n\n### 참고용 피그마\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=23795-36923&t=IaQXICBQYaxW5jOd-4\n\n![image](/uploads/c1ed20b54017cc44cb6c4c543e2947a8/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh @jhjjung","state":"opened","created_at":"2026-05-26T01:52:09.323Z","updated_at":"2026-05-27T05:32:38.220Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":3,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3338","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3338","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3338/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3338/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3338","relative":"#3338","full":"manage/2022#3338"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7688,"iid":3336,"project_id":3,"title":"[공통] 할인카드 페이지 업데이트 ('26.06.01)","description":"$d","state":"opened","created_at":"2026-05-26T01:01:12.440Z","updated_at":"2026-05-28T03:09:15.922Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":929,"iid":866,"project_id":3,"title":"2026.06.01 _ 0시 배포","description":"","state":"active","created_at":"2026-05-20T07:02:16.655Z","updated_at":"2026-05-27T07:03:39.596Z","due_date":"2026-05-31","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/866"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":5,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3336","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3336","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3336/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3336/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3336","relative":"#3336","full":"manage/2022#3336"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7684,"iid":3332,"project_id":3,"title":"[공통] 셀프가입 사은품형 혜택 정책 변경","description":"# 요청사항\n~~6/1부터 시행하는 정책, 월말 1일 넘어가는 0시 배포 필요 이슈~~\n\n요청에 의해 6/1 오전 9시 30분 배포로 변경\n\n| 구분 | 요금할인형 | 사은품형 | 비고 |\n|-|-|-|-|\n| TV 단독 | X | X | 변동없음 |\n| 인터넷 단독 | O | S-머니 상품권 | 변동없음 |\n| DPS | O | 가전 사은품 | 기존 S-머니 상품권 삭제 |\n| TPS | O | 가전 사은품 (노출만) | 기존 S-머니 상품권 삭제, 가전사은품으로 셀프접수 시도시 팝업을 통한 상담 유도 | \n\n## 1. TV 단독, 인터넷 단독의 경우\nhttps://www.skylife.co.kr/directOrder/main?tv=sky-all, https://www.skylife.co.kr/directOrder/main?internet=sky-100m 등 4종\n\n변동 사항 없음\n\n## 2. DPS의 경우\nhttps://www.skylife.co.kr/directOrder/main?tv=iptv-basic&internet=sky-100m 등 8종\n\n- S-머니 상품권 혜택 제거\n\n![image](/uploads/624ff7b254eadf4e58b31f56421abb1b/image.png)\n\n## 3. TPS의 경우\nhttps://www.skylife.co.kr/directOrder/main?tv=iptv-plus&internet=sky-giga-500m&mvno=pl235q977\n\n- S-머니 상품권 혜택 제거\n- 무료 가전제품 혜택 선택시 노출되는 팝업 문구 변경\n  - 무료 가전제품 혜택은 상담사를 통해 가입이 진행돼요.\n  - 1588-9944로 연결하시면 상담을 통해 빠르게 안내해드려요.\n\n![image](/uploads/81969ceeae3315a46c25444a622e157f/image.png)\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-05-20T07:02:29.818Z","updated_at":"2026-05-27T07:14:26.918Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":932,"iid":869,"project_id":3,"title":"2026.06.01","description":"","state":"active","created_at":"2026-05-27T07:03:21.393Z","updated_at":"2026-05-27T07:03:21.393Z","due_date":"2026-06-01","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/869"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":4,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3332","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3332","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3332/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3332/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3332","relative":"#3332","full":"manage/2022#3332"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null},{"id":7619,"iid":3267,"project_id":3,"title":"[공통] 하나카드 전용 퀵 상담 페이지 신규 구축","description":"# 요청사항\nhttps://www.skylife.co.kr/quick_hana (신규 페이지 구축)\n\n- 하나카드 접수 창구에서 QR 전단을 배치할 예정\n- 해당 QR 코드 스캔 시, 랜딩할 상담 퀵 페이지가 필요(기획전 페이지 X)\n- 페이지 형태의 상담페이지가 필요하며, UI 또한 커스텀 필요 (개인정보 수집/이용, 수집 항목등은 기존과 동일)\n \n### [커스텀  UI 형상]\n- CMS 가입상담에 접수 DB 적재 필요 (저장 처리시, #3271 이슈 선행 또는 동시 진행 필요)\n- 페이지 형태로 개발 필요 (팝업 형태 x)\n- 접수 시 상담 상품명: 스카이라이프x하나카드\n- 상담 상품 1개로, 디폴트 선택 처리 필요\n- 상담 완료 후 팝업 또한, 커스텀된 내용으로 노출 필요(가입상담 전화번호 다름. 1577-3745)\n- 완료 팝업 닫기 클릭시 랜딩은 홈페이지 메인으로 이동 (https://www.skylife.co.kr/Main)\n- 그외 연락처, 상담희망시간, 약관동의는 기존 quick과 동일\n\n### 디자인 피그마\nhttps://www.figma.com/design/3QEj8OgHOW0QnYzKoyc2Or/-25-%EA%B0%9C%ED%8E%B8-%EC%9D%B4%ED%9B%84-%EC%9B%B9%EC%95%B1-%EC%88%98%EC%A0%95-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%ED%9A%8D?node-id=22312-24889&t=RZcJxFh5KbAVgsqx-4\n\n- - -\n\n@SONGHEE @hyeon.jg @dadoong @hchj @dwrapael @JungMyungho @sucheol @nmwh","state":"opened","created_at":"2026-04-14T01:12:58.031Z","updated_at":"2026-05-26T05:21:09.315Z","closed_at":null,"closed_by":null,"labels":["공통","배포대기"],"milestone":{"id":927,"iid":864,"project_id":3,"title":"2026.06 개발리스트","description":"","state":"active","created_at":"2026-05-15T03:42:01.588Z","updated_at":"2026-05-15T03:42:01.588Z","due_date":"2026-06-30","start_date":null,"expired":false,"web_url":"https://gitlab.skylife.co.kr/manage/2022/-/milestones/864"},"assignees":[{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"}],"author":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"type":"ISSUE","assignee":{"id":22,"username":"wtc131","name":"조원태","state":"active","locked":false,"avatar_url":"https://gitlab.skylife.co.kr/uploads/-/system/user/avatar/22/avatar.png","web_url":"https://gitlab.skylife.co.kr/wtc131"},"user_notes_count":4,"merge_requests_count":0,"upvotes":0,"downvotes":0,"due_date":null,"confidential":false,"discussion_locked":null,"issue_type":"issue","web_url":"https://gitlab.skylife.co.kr/manage/2022/-/issues/3267","time_stats":{"time_estimate":0,"total_time_spent":0,"human_time_estimate":null,"human_total_time_spent":null},"task_completion_status":{"count":0,"completed_count":0},"has_tasks":true,"task_status":"0 of 0 checklist items completed","_links":{"self":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3267","notes":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3267/notes","award_emoji":"https://gitlab.skylife.co.kr/api/v4/projects/3/issues/3267/award_emoji","project":"https://gitlab.skylife.co.kr/api/v4/projects/3","closed_as_duplicate_of":null},"references":{"short":"#3267","relative":"#3267","full":"manage/2022#3267"},"severity":"UNKNOWN","moved_to_id":null,"service_desk_reply_to":null}]}]}]
